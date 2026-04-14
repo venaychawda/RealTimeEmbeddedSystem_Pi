@@ -1,0 +1,35 @@
+# Compiled binaries
+test_rt
+pthread_hello
+race
+sched_demo
+jitter
+cyclic_exec
+rms_demo
+prio_inv
+multicore_rt
+prodcon
+posix_timer
+sequencer
+cam_capture
+
+# Object files
+*.o
+*.d
+
+# Camera output
+*.jpg
+*.csv
+*.log
+
+# Editor files
+*~
+*.swp
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Trace files
+trace.dat
