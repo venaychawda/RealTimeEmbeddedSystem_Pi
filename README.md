@@ -139,8 +139,8 @@ rtes-training/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/rtes-training.git
-cd rtes-training
+git clone https://github.com/venaychawda/RealTimeEmbeddedSystem_Pi.git
+cd RealTimeEmbeddedSystem_Pi
 
 # 2. Set up the Pi (installs all dependencies)
 chmod +x scripts/setup_pi.sh && ./scripts/setup_pi.sh
