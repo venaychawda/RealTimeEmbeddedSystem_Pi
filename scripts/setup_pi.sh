@@ -25,7 +25,7 @@ sudo apt install -y v4l-utils fswebcam ffmpeg
 
 echo ""
 echo "[5/5] Installing OpenCV C/C++ development libraries..."
-sudo apt install -y opencv-data libopencv-dev
+sudo apt install -y opencv-data libopencv-dev python3-opencv
 
 echo ""
 echo "[+] Installing stress testing and tracing tools..."
